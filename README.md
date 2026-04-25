@@ -40,8 +40,8 @@ Desenvolvida com Java, Spring Boot e MySQL.
 
 <div align="center">
 
-![Winicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winiciuscdc404&show_icons=true&theme=tokyonight)
+![Winicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winiciuscdc404&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winiciuscdc404&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winiciuscdc404&layout=compact&theme=radical)
 
 </div>
