@@ -13,7 +13,6 @@
 - 🔭 Atualmente desenvolvendo uma **API REST com Java e Spring Boot**
 - 📚 Aprendendo sobre **autenticação JWT, arquitetura REST e boas práticas**
 - 🎯 Objetivo: me tornar um desenvolvedor back-end completo
-- 🌎 Brasil
 
 ---
 
