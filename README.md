@@ -48,24 +48,4 @@ Currently building a full **REST API with Java & Spring Boot** — with JWT auth
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=winiciuscdc404&theme=dark&hide_border=true&background=0d0d0d&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Winicius's GitHub Activity](https://ghchart.rshah.org/dc2626/winiciuscdc404)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=winiciuscdc404&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma
+[![GitHub Streak](https://streak-stats.demolab.com?user=winiciuscdc404&theme=dark&hide_border=true&background=0d0d0d&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-st
